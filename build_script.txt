@@ -1,0 +1,5 @@
+open thispatcher;
+appicon "Hieronymus:/Users/aaronk/idmil/AUMI/application/AUMIapp.ico"
+folder "Hieronymus:/Users/aaronk/idmil/AUMI/application/program_files/scripts"
+folder "Hieronymus:/Users/aaronk/idmil/AUMI/application/program_files/media/media"
+folder "Hieronymus:/Users/aaronk/idmil/AUMI/application/program_files/media/Sound_Presets"folder "Hieronymus:/Users/aaronk/idmil/AUMI/application/subpatches"folder "Hieronymus:/Users/aaronk/idmil/AUMI/application/support"open "Hieronymus:/Users/aaronk/idmil/AUMI/application/AUMI.maxpat"

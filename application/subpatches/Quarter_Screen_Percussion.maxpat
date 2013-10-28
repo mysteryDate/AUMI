@@ -743,16 +743,16 @@
 ,
 					"patching_rect" : [ 600.0, 435.0, 384.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"digest" : "",
+						"tags" : "",
+						"default_fontface" : 0,
 						"globalpatchername" : "",
+						"digest" : "",
 						"default_fontname" : "Arial",
 						"fontname" : "Arial",
 						"default_fontsize" : 14.0,
 						"description" : "",
 						"fontface" : 0,
-						"fontsize" : 14.0,
-						"tags" : "",
-						"default_fontface" : 0
+						"fontsize" : 14.0
 					}
 ,
 					"text" : "p generate triggers"
@@ -792,13 +792,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-6",
-					"linecount" : 4,
+					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 360.0, 435.0, 172.0, 60.0 ],
-					"text" : "\"terra:/Users/ianhattwick2/Dropbox/ max dropbox/AUMI/application/subpatches/\""
+					"patching_rect" : [ 360.0, 435.0, 172.0, 46.0 ],
+					"text" : "Hieronymus:/Users/aaronk/idmil/AUMI/application/subpatches/"
 				}
 
 			}
@@ -1083,16 +1083,16 @@
 ,
 					"patching_rect" : [ 780.0, 75.0, 79.0, 20.0 ],
 					"saved_object_attributes" : 					{
-						"digest" : "",
+						"tags" : "",
+						"default_fontface" : 0,
 						"globalpatchername" : "",
+						"digest" : "",
 						"default_fontname" : "Arial",
 						"fontname" : "Arial",
 						"default_fontsize" : 14.0,
 						"description" : "",
 						"fontface" : 0,
-						"fontsize" : 14.0,
-						"tags" : "",
-						"default_fontface" : 0
+						"fontsize" : 14.0
 					}
 ,
 					"text" : "p set filepath"
@@ -1719,16 +1719,16 @@
 ,
 									"patching_rect" : [ 174.0, 90.0, 113.0, 17.0 ],
 									"saved_object_attributes" : 									{
-										"digest" : "",
+										"tags" : "",
+										"default_fontface" : 0,
 										"globalpatchername" : "",
+										"digest" : "",
 										"default_fontname" : "Arial",
 										"fontname" : "Arial",
 										"default_fontsize" : 12.0,
 										"description" : "",
 										"fontface" : 0,
-										"fontsize" : 12.0,
-										"tags" : "",
-										"default_fontface" : 0
+										"fontsize" : 12.0
 									}
 ,
 									"text" : "p draw_quad_divisions"
@@ -2128,16 +2128,16 @@
 ,
 									"patching_rect" : [ 32.0, 90.0, 141.0, 17.0 ],
 									"saved_object_attributes" : 									{
-										"digest" : "",
+										"tags" : "",
+										"default_fontface" : 0,
 										"globalpatchername" : "",
+										"digest" : "",
 										"default_fontname" : "Arial",
 										"fontname" : "Arial",
 										"default_fontsize" : 12.0,
 										"description" : "",
 										"fontface" : 0,
-										"fontsize" : 12.0,
-										"tags" : "",
-										"default_fontface" : 0
+										"fontsize" : 12.0
 									}
 ,
 									"text" : "p tracking_point_coordinates"
@@ -2223,16 +2223,16 @@
 ,
 					"patching_rect" : [ 15.0, 315.0, 133.0, 17.0 ],
 					"saved_object_attributes" : 					{
-						"digest" : "",
+						"tags" : "",
+						"default_fontface" : 0,
 						"globalpatchername" : "",
+						"digest" : "",
 						"default_fontname" : "Arial",
 						"fontname" : "Arial",
 						"default_fontsize" : 12.0,
 						"description" : "",
 						"fontface" : 0,
-						"fontsize" : 12.0,
-						"tags" : "",
-						"default_fontface" : 0
+						"fontsize" : 12.0
 					}
 ,
 					"text" : "p quad_make_lcd_command"
@@ -3153,16 +3153,16 @@
 ,
 					"patching_rect" : [ 600.0, 465.0, 92.0, 17.0 ],
 					"saved_object_attributes" : 					{
-						"digest" : "",
+						"tags" : "",
+						"default_fontface" : 0,
 						"globalpatchername" : "",
+						"digest" : "",
 						"default_fontname" : "Arial",
 						"fontname" : "Arial",
 						"default_fontsize" : 12.0,
 						"description" : "",
 						"fontface" : 0,
-						"fontsize" : 12.0,
-						"tags" : "",
-						"default_fontface" : 0
+						"fontsize" : 12.0
 					}
 ,
 					"text" : "p inBox"

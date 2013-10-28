@@ -7,7 +7,7 @@
 			"revision" : 4
 		}
 ,
-		"rect" : [ 121.0, 289.0, 1283.0, 747.0 ],
+		"rect" : [ 483.0, 286.0, 1283.0, 747.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -87,7 +87,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-8",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -95,7 +94,7 @@
 					"patching_rect" : [ 1167.0, 75.0, 69.0, 20.0 ],
 					"saved_object_attributes" : 					{
 						"midisupport" : 1,
-						"cantclosetoplevelpatchers" : 1,
+						"cantclosetoplevelpatchers" : 0,
 						"audiosupport" : 1,
 						"usesearchpath" : 1,
 						"allwindowsactive" : 0,
@@ -116,7 +115,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-50",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -131,7 +129,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-51",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -169,7 +166,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-49",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -840,7 +836,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-39",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -958,13 +953,12 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-36",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1125.0, 435.0, 116.0, 18.0 ],
+					"patching_rect" : [ 1189.0, 433.0, 116.0, 18.0 ],
 					"text" : "macintosh"
 				}
 
@@ -973,13 +967,12 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-28",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 1125.0, 300.0, 56.0, 20.0 ],
+					"patching_rect" : [ 1189.0, 298.0, 56.0, 20.0 ],
 					"text" : "delay 50"
 				}
 
@@ -988,13 +981,12 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-26",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 1125.0, 270.0, 60.0, 20.0 ],
+					"patching_rect" : [ 1189.0, 268.0, 60.0, 20.0 ],
 					"text" : "loadbang"
 				}
 
@@ -1004,13 +996,12 @@
 					"color" : [ 0.94902, 0.376471, 0.0, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-29",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1140.0, 338.0, 117.0, 20.0 ],
+					"patching_rect" : [ 1204.0, 336.0, 117.0, 20.0 ],
 					"text" : "v aumi_PLATFORM"
 				}
 
@@ -1020,13 +1011,12 @@
 					"color" : [ 0.94902, 0.376471, 0.0, 1.0 ],
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-16",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1140.0, 405.0, 124.0, 20.0 ],
+					"patching_rect" : [ 1204.0, 403.0, 124.0, 20.0 ],
 					"text" : "v aumi_ROOT_PATH"
 				}
 
@@ -1035,7 +1025,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-10",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -2536,7 +2525,7 @@
 						"dependency_cache" : [  ]
 					}
 ,
-					"patching_rect" : [ 1185.0, 300.0, 59.0, 20.0 ],
+					"patching_rect" : [ 1249.0, 298.0, 59.0, 20.0 ],
 					"saved_object_attributes" : 					{
 						"globalpatchername" : "",
 						"fontface" : 0,
@@ -2558,13 +2547,12 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-13",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 915.0, 465.0, 343.0, 18.0 ],
+					"patching_rect" : [ 979.0, 463.0, 343.0, 18.0 ],
 					"text" : "Hieronymus:/Users/aaronk/idmil/AUMI/application/"
 				}
 
@@ -2573,9 +2561,10 @@
 				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "bpatcher",
-					"name" : "aumi_clear.maxpat",
+					"name" : "Quarter_Screen_Percussion.maxpat",
 					"numinlets" : 0,
-					"numoutlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 510.0, 515.0, 673.0, 179.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 510.0, 515.0, 673.0, 179.0 ],
@@ -2587,7 +2576,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-27",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -2602,7 +2590,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-23",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -2689,7 +2676,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-6",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -2708,7 +2694,6 @@
 					"fontlink" : 1,
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-4",
 					"maxclass" : "textbutton",
 					"numinlets" : 1,
@@ -2728,15 +2713,15 @@
 					"fontname" : "Helvetica",
 					"fontsize" : 14.0,
 					"id" : "obj-15",
-					"linecount" : 16,
+					"linecount" : 15,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 900.0, 98.0, 253.0, 230.0 ],
+					"patching_rect" : [ 900.0, 98.0, 253.0, 216.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 16,
 					"presentation_rect" : [ 900.0, 98.0, 244.0, 230.0 ],
-					"text" : "To begin, please choose a mode from the yellow menu box.\r\r\rThe Adaptive Use Musical Instrument (AUMI) is a project of the Deep Listening Institute, Ltd. developed by Zane Van Dusen and Zevin Polzin under the direction of Pauline Oliveros and Leaf Miller.\r\rUpdated by Doug van Nort and Ian Hattwick.\r\rTo donate please go to: deeplistening.org/adaptiveuse."
+					"text" : "The Screen is divided into 5 sections:four quarters and a square section in the center that can change in size.\r\rThe 'Guide Size' slider changes the size of the center square.\r\rClick on a point on the screen (such as your nose) to set the tracking point.\r\rEach section can be assigned a sound that will be triggered when the tracking point enters the section. The center square is silent."
 				}
 
 			}
@@ -2745,13 +2730,15 @@
 					"fontname" : "Helvetica",
 					"fontsize" : 24.0,
 					"id" : "obj-12",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 897.0, 38.0, 221.0, 30.0 ],
+					"patching_rect" : [ 897.0, 38.0, 221.0, 54.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 897.0, 38.0, 221.0, 30.0 ],
-					"text" : "   WELCOME!"
+					"presentation_linecount" : 2,
+					"presentation_rect" : [ 897.0, 38.0, 221.0, 54.0 ],
+					"text" : " Quarter Screen Percussion Mode"
 				}
 
 			}
@@ -2810,7 +2797,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-57",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -7150,7 +7136,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-7",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -7346,7 +7331,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-1",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -7362,7 +7346,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-71",
 					"maxclass" : "newobj",
 					"numinlets" : 3,
@@ -10032,7 +10015,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
-					"hidden" : 1,
 					"id" : "obj-65",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -10634,7 +10616,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
-					"hidden" : 1,
 					"id" : "obj-17",
 					"linecount" : 2,
 					"maxclass" : "newobj",
@@ -10785,7 +10766,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
-					"hidden" : 1,
 					"id" : "obj-18",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -14932,7 +14912,6 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
-					"hidden" : 1,
 					"id" : "obj-19",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -15522,7 +15501,28 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "aumi_clear.maxpat",
+				"name" : "Quarter_Screen_Percussion.maxpat",
+				"bootpath" : "/Volumes/Hieronymus/Users/aaronk/idmil/AUMI/application/subpatches",
+				"patcherrelativepath" : "../application/subpatches",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "module_background.png",
+				"bootpath" : "/Volumes/Hieronymus/Users/aaronk/idmil/AUMI/working files/deprecated/program_media",
+				"patcherrelativepath" : "../working files/deprecated/program_media",
+				"type" : "PNG ",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "PERCUSSION_SOUND_SOURCE.maxpat",
+				"bootpath" : "/Volumes/Hieronymus/Users/aaronk/idmil/AUMI/application/subpatches",
+				"patcherrelativepath" : "../application/subpatches",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "quarter_screen_groove.maxpat",
 				"bootpath" : "/Volumes/Hieronymus/Users/aaronk/idmil/AUMI/application/subpatches",
 				"patcherrelativepath" : "../application/subpatches",
 				"type" : "JSON",
