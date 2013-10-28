@@ -1,0 +1,8 @@
+open thispatcher;
+appicon "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/working files/icon/AUMIapp.icns"
+
+folder "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application/subpatches"
+folder "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application/Program Files/media/media"
+folder "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application/Program Files/media/Sound_Presets"
+folder "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application/Program Files/scripts"
+open "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application/adaptiveuse.ian17a.maxpat"

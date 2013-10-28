@@ -1,0 +1,9 @@
+open thispatcher;
+appicon "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/working files/icon/AUMIapp.ico"
+
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/application/subpatches"
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/application/Program Files/media/media"
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/application/Program Files/media/Sound_Presets"
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/application/Program Files/scripts"
+
+open "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/AUMI/application/adaptiveuse.ian17a.maxpat"

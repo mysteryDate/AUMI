@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "aumikeyboard",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"source" : [ 105 ],
+					"scale" : [ 0 ],
+					"guide" : [ 149 ],
+					"key" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

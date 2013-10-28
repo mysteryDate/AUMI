@@ -1,0 +1,3 @@
+open thispatcher;
+appicon "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/working files/icon/AUMIapp.icns"
+folder "terra:/Users/ianhattwick2/Dropbox/ Max Dropbox/AUMI/application"

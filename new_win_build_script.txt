@@ -1,0 +1,8 @@
+open thispatcher;
+appicon ""C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/AUMIapp.ico"
+
+folder "C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/subpatches"
+folder ""C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/media/media"
+folder ""C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/Program Files/media/Sound_Presets"
+folder ""C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/Program Files/scripts"
+folder "C:/Users/Aaron/Desktop/AUMI project/Ians_repos/application/support"
